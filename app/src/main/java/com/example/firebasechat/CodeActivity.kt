@@ -51,8 +51,7 @@ class CodeActivity : AppCompatActivity() {
 
                 override fun onCodeSent(
                     verifyId: String, forceResendingToken:
-                    PhoneAuthProvider.ForceResendingToken
-                ) {
+                    PhoneAuthProvider.ForceResendingToken) {
                     super.onCodeSent(verifyId, forceResendingToken)
                     dialog!!.dismiss()
                     verificationId = verifyId

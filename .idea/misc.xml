@@ -4,11 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Sergey/AndroidStudioProjects/FirebaseChat/app/src/main/res/drawable/bacgraund_shape.xml" value="0.146" />
+        <entry key="..\:/Users/Sergey/AndroidStudioProjects/FirebaseChat/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.146" />
+        <entry key="..\:/Users/Sergey/AndroidStudioProjects/FirebaseChat/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Sergey/AndroidStudioProjects/FirebaseChat/app/src/main/res/layout/activity_code.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Sergey/AndroidStudioProjects/FirebaseChat/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Sergey/AndroidStudioProjects/FirebaseChat/app/src/main/res/layout/activity_setup_profile.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Sergey/AndroidStudioProjects/FirebaseChat/app/src/main/res/layout/activity_verication.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Sergey/AndroidStudioProjects/FirebaseChat/app/src/main/res/layout/activity_verification.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sergey/AndroidStudioProjects/FirebaseChat/app/src/main/res/layout/delete_layout.xml" value="0.253125" />
+        <entry key="..\:/Users/Sergey/AndroidStudioProjects/FirebaseChat/app/src/main/res/layout/item_card.xml" value="0.4" />
+        <entry key="..\:/Users/Sergey/AndroidStudioProjects/FirebaseChat/app/src/main/res/layout/receive_msg.xml" value="0.253125" />
+        <entry key="..\:/Users/Sergey/AndroidStudioProjects/FirebaseChat/app/src/main/res/layout/send_msg.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
